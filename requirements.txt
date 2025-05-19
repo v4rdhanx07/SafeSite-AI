@@ -1,0 +1,7 @@
+streamlit
+pyserial
+pandas
+altair
+playsound
+smtplib
+sqlite3
